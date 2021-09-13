@@ -7,5 +7,5 @@ https://medium.com/@guvenc.kazanci/camunda-springboot-starter-3-6e02f7f7b713
 If you want to clone and run it, 
 
 ```
-git clone git@github.com:gvnc/camunda-extended.git
+git clone git@github.com:gvnc/camunda-customizations.git
 ```
